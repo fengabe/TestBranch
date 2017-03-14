@@ -6,3 +6,5 @@ not right
 -feature-c-w
 
 -create develop branch
+
+-create feature-e branch
